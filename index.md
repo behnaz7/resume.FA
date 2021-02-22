@@ -19,7 +19,8 @@
 <ul>
   <li> illustration</li>
   <li>Photoshop</li>
-  <li>Graphic</li>
+  <li>Visual studio</li>
+ <li>Graphics</li>
 </ul>
 <h1> زبان ها</h1>
 <ul>
