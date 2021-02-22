@@ -38,10 +38,7 @@
 <h1> سایر حساب های ڪاربری </h1>
 <ul>
  
- 
-   -Gmail: bbazyar15@gmail.com
-
-   - کوئرا: <a href="">My Profile</a>
-
-   - رزومه ی انگلیسی: <a href="https://behnaz7.github.io/resume.EN/"> Resume </a>
+ - Gmail: bbazyar15@gmail.com
+ - کوئرا: <a href="">My Profile</a>
+ - رزومه ی انگلیسی: <a href="https://behnaz7.github.io/resume.EN/"> Resume </a>
 </ul>
