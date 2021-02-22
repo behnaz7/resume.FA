@@ -1,4 +1,3 @@
-[In reply to 👽]
 <img src="https://avatars.githubusercontent.com/u/79274288?s=400&u=6b9ffe15dcd818e2773c984fe87758a1f2500393&v=4"/>
 
  <h1> درباره ی من</h1>
